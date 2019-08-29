@@ -1,0 +1,6 @@
+pytanie2 pytanie2 pytanie2
+odpowiedz 1
+odpowiedz 2
+odpowiedz 3
+2
+// odpowiedzi numerujemy od 0 do 2 ( odpowiedz poprawna nr 3)
